@@ -1,18 +1,24 @@
 ![Monica Nyagaya Profile](Banner_Github.png)
 
 <p align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monica-nyagaya)
-    [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nyagayamonica)
-    [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nyagayamonica@gmail.com)
-
+  <a href="https://www.linkedin.com/in/monica-nyagaya" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/nyagayamonica" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:nyagayamonica@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ## About Me
 
 I am an aspiring Data Scientist, passionate about transforming raw data into insights. 
 
- I have a background in UX/UI design, Web Content Development, and Business Development, and Hospitality & Tourism Management.
+I have a background in UX/UI design, Web Content Development, and Business Development, and Hospitality & Tourism Management.
 
 🔭 Currently working on various end-to-end data science projects. 
 
