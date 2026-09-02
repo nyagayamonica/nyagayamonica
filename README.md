@@ -1,4 +1,4 @@
-![Monica Nyagaya Profile](Banner_Github.png)
+![Monica Nyagaya Profile](Banner1_Github.png)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/monica-nyagaya" target="_blank" rel="noopener noreferrer">
