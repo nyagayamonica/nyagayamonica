@@ -1,4 +1,5 @@
 ![Monica Nyagaya Profile](Banner1_Github.png)
+
 <p align="center">
   <a href="https://www.linkedin.com/in/monica-nyagaya" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
